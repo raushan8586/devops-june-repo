@@ -1,2 +1,4 @@
 This is line1 of sample3.txt
 This is line2 of sample3.txt
+
+This is line3 of sample3.txt
